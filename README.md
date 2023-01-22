@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying System Analysis and Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, Node.js
 - 🤔 I’m looking for help with JavaScript
-- 👯 I’m trying to becpme a web dev
+- 👯 I’m trying to become a web dev
 <br><br>
 
 ## Contact
